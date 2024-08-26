@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi there! 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmdkpnnikh&theme=github_dark)
 
 ## I have Learned  
@@ -12,20 +12,21 @@
 ![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-## Design
+### Design
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### OS
+## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+###
+![spec](https://img.shields.io/badge/intel-core%20i3%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/RAM-6GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/radeon_ati-hd_8500m-ED1C24?&style=for-the-badge&logo=amd&logoColor=white)
 
 <!---
 hmdkpnnikh/hmdkpnnikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
