@@ -1,6 +1,11 @@
 # Hi there! 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmdkpnnikh&theme=github_dark)
 
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdkpnnikh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hmdkpnnikh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"/>
+</div>
+
 ## I have Learned  
 ### HTML & CSS
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
