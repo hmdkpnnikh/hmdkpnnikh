@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/RAM-6GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/radeon_ati-hd_8500m-ED1C24?&style=for-the-badge&logo=amd&logoColor=white)
 ###
-![spec](https://img.shields.io/badge/intel-core%20Celeron%204205u-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
+![spec](https://img.shields.io/badge/intel%20Celeron%204205u-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/intel-hd_610-ED1C24?&style=for-the-badge&logo=intel&logoColor=white)
 <!---
