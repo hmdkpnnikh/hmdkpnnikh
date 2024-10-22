@@ -27,6 +27,7 @@
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 ###
 ![spec](https://img.shields.io/badge/intel-core%20i3%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
